@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'womenempowerment'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F0FBAB8DBC0844ABBF6689A265D44EB9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_16BF9D8DBF6046FF89F215D61C79A224 }}
           package: .
