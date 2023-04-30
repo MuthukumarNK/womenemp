@@ -16,11 +16,11 @@ export class AppComponent implements OnInit
 
   constructor(public userService:UserService,private http:HttpClient) //public bcuz we use it outside class
   {
-
+    
   }
 
   ngOnInit(): void 
   {
-
+    
   }
 }
